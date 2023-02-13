@@ -6,7 +6,7 @@ DonkeyCar
 ---------
 If you don't have one and would like to build one please visit: https://www.donkeycar.com/
 
-This site contains all that is needed to use this system.
+This site contains all that is needed to re-build this system.
 
 ![image](https://user-images.githubusercontent.com/78712154/166343124-e58a7262-2364-4f95-889b-4d6475268db6.png)
 
