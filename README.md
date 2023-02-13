@@ -1,6 +1,6 @@
 # Autonomous-Robot-System
 
-In order to run this system you will need a DonkeyCar intergrated bot. 
+In order to recreate the system below you will need to build a DonKeyCar. 
 
 DonkeyCar
 ---------
