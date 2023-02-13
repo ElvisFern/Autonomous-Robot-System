@@ -41,7 +41,7 @@ Also point the selsscripts to the controls of your bot.
 
 Current system is made to handle 1 object and two scripts, however can be scaled up to 8 objects and over 10 scripts depending on logic.
 
-This architecture is not mainly dependant on opencv and python selenium DonkeyCar was an optional passion build for me.
+This architecture is mainly dependant on opencv and python selenium DonkeyCar build was an optional passion build for me.
 
 ![image](https://user-images.githubusercontent.com/78712154/166343070-e389e24b-729b-4a3f-aa74-6e0719ad4a8d.png)
 
