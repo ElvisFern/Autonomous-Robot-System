@@ -16,9 +16,11 @@ Below is a detailed diagram of all the components you will find within the Donke
 
 Object Detection
 ----------------
-Can detect up to 91 objects
+The model below is googles coco object detector. It can detect up to 91 objects.
 
-Uses ssd_mobilenet_v3_coco_2020
+This model was integrated with DonkeyCar using python scripts.
+
+Uses version ssd_mobilenet_v3_coco_2020
 
 ![image](https://user-images.githubusercontent.com/78712154/166343112-4c0e437c-1813-440b-b385-46d4d3bcb3c4.png)
 
