@@ -43,6 +43,8 @@ Current system is made to handle 1 object and two scripts, however can be scaled
 
 This architecture is mainly dependant on opencv and python selenium DonkeyCar build was an optional passion build for me.
 
+The camera feed is and action scripts/functions are controlled in main.py
+
 ![image](https://user-images.githubusercontent.com/78712154/166343070-e389e24b-729b-4a3f-aa74-6e0719ad4a8d.png)
 
 
